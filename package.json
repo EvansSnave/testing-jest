@@ -1,0 +1,18 @@
+{
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.22.5",
+    "@babel/preset-env": "^7.22.5",
+    "@types/jest": "^29.5.2",
+    "babel-jest": "^29.5.0",
+    "jest": "^29.5.0"
+  },
+  "typeAcquisition": {
+    "include": [
+      "jest"
+    ]
+  }
+}
